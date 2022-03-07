@@ -70,3 +70,16 @@ korean, math, english
 
 8-2) 입력받은 정보를 해당되는 주소에 집어넣는다.
 //&포인터변수[total_count-1]
+
+<실행 결과>
+
+<img width="377" alt="1" src="https://user-images.githubusercontent.com/100817654/156997548-e6d440ed-c0e7-4ae1-bde9-09773d688515.png">
+<img width="601" alt="2" src="https://user-images.githubusercontent.com/100817654/156997567-85a5ea51-e46c-4744-ad31-42c9a4a8fb1a.png">
+<img width="453" alt="3" src="https://user-images.githubusercontent.com/100817654/156997588-7d11fac3-a430-470d-b87b-750751c8053c.png">
+<img width="598" alt="4" src="https://user-images.githubusercontent.com/100817654/156997605-51456dae-7e4f-49b6-ae07-422308ede1e4.png">
+<img width="422" alt="5" src="https://user-images.githubusercontent.com/100817654/156997614-e0d8dde2-d115-45dd-803a-8de54dd0cdde.png">
+<img width="630" alt="6" src="https://user-images.githubusercontent.com/100817654/156997624-0193f4f4-1f2d-418c-af8c-522f0bc9d8f9.png">
+<img width="449" alt="7" src="https://user-images.githubusercontent.com/100817654/156997637-b2f2fb6c-6ff6-4767-b218-0971598d000c.png">
+<img width="623" alt="8" src="https://user-images.githubusercontent.com/100817654/156997650-31dba81f-a470-45be-8ebe-5447a3cf3d26.png">
+<img width="460" alt="9" src="https://user-images.githubusercontent.com/100817654/156997661-dba34e08-bc1c-444f-ba31-e44989baa2e5.png">
+<img width="631" alt="10" src="https://user-images.githubusercontent.com/100817654/156997669-87752325-b638-4826-9733-3bc3adcd807c.png">
